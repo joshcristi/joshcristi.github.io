@@ -1,0 +1,107 @@
+a {
+  color: white;
+  float: right;
+  margin-right: 50px;
+}
+
+    .vandenberg, .ellsworth, .red-lobster, .mcdonalds {
+      color: white;
+      font-size: 17px;
+      margin-left: 30px;
+    }
+
+    .job-crew, .job-bartender, .job-ff1, .job-ff2 {
+      color: orange;
+      font-size: 25px;
+      font-weight: bold;
+      margin-left: 30px;
+      font-style: italic;
+
+    }
+
+    .work-history {
+      color: red;
+      font-size: 35px;
+      text-decoration:underline;
+      margin-left: 30px;
+      margin-top: 100px;
+    }
+
+    p {
+      color: white;
+    }
+
+    h2 {
+      color: red;
+      text-decoration: underline;
+    }
+
+    h3 {
+      color: orange;
+    }
+
+    li {
+      color: red;
+      transition: color 0.5s;
+      transition: font-size 0.5s;
+    }
+
+    li:hover {
+      color: white;
+      font-size: 20px;
+    }
+
+    aside {
+      float: right;
+      margin-right: 60px;
+      font-size: 20px;
+      margin-top: 50px;
+    }
+
+    .intro-text {
+      color: white;
+      font-size: 20px;
+      width: 500px;
+    }
+
+    .intro {
+      font-size: 25px;
+      color: orange;
+      text-decoration: underline;
+    }
+
+    .name-title {
+      font-family: Arial;
+      font-size: 40px;
+      text-align: center;
+      color: red;
+      font-weight: bold;
+     border-style:solid;
+     margin-left: 500px;
+     margin-right: 500px;
+     transition: color 1s;
+      }
+
+    .name-title:hover {
+      color: white;
+      }
+    
+    .personal-info {
+      color: blue;
+      text-align: center;
+      line-height: 0.1;
+      font-size: 17px;
+      transition: font-size 1s;
+      }
+    
+    .personal-info:hover {
+      font-size: 25px;
+      color: white;
+    }
+
+    body {
+      background-image: url("https://img.freepik.com/premium-photo/3d-burning-embers-glowing-fire-glowing-particles-black-background_56345-319.jpg");
+    }
+
+
+  </style>
